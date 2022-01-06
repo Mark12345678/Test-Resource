@@ -6,9 +6,170 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "2020252",
+      "name": "删除",
+      "font_class": "delete-bolder",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5651501",
+      "name": "停止",
+      "font_class": "abort-solid-bolder",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "23414815",
+      "name": "停止",
+      "font_class": "abort-bold",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "1130659",
+      "name": "添加",
+      "font_class": "add-bold",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "24454350",
+      "name": "减去",
+      "font_class": "cut-bold",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "6318169",
+      "name": "减去",
+      "font_class": "cut",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "800437",
+      "name": "减去_minus81",
+      "font_class": "cut-bolder",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "936744",
+      "name": "添加",
+      "font_class": "add-bolder",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "7548138",
+      "name": "icon_失败",
+      "font_class": "fail",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "577362",
+      "name": "时钟",
+      "font_class": "clock",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "8989214",
+      "name": "警告",
+      "font_class": "tips",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1066119",
+      "name": "成功",
+      "font_class": "success",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8846261",
+      "name": "重启",
+      "font_class": "restart",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "7594288",
+      "name": "16gl-square",
+      "font_class": "square",
+      "unicode": "ea8b",
+      "unicode_decimal": 60043
+    },
+    {
+      "icon_id": "14718738",
+      "name": "tx-正方形",
+      "font_class": "square-bolder",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "23713923",
+      "name": "三角形",
+      "font_class": "trigon",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "14718726",
+      "name": "tx-三角形",
+      "font_class": "trigon-bolder",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "9516377",
+      "name": "重启",
+      "font_class": "restart-bolder",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "4549747",
+      "name": "成功",
+      "font_class": "success-bolder",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "12770928",
+      "name": "失败",
+      "font_class": "fail-bolder",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14151853",
+      "name": "关于",
+      "font_class": "about-bolder",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "14151856",
+      "name": "时间",
+      "font_class": "clock-bolder",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "14151864",
+      "name": "提示",
+      "font_class": "tips-bolder",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
       "icon_id": "2578229",
       "name": "刷新",
-      "font_class": "reflesh",
+      "font_class": "reflesh-bolder",
       "unicode": "e608",
       "unicode_decimal": 58888
     },
@@ -153,13 +314,6 @@
       "unicode_decimal": 59041
     },
     {
-      "icon_id": "8846261",
-      "name": "重启",
-      "font_class": "reStart",
-      "unicode": "e64f",
-      "unicode_decimal": 58959
-    },
-    {
       "icon_id": "6582271",
       "name": "日出日落",
       "font_class": "sunrise",
@@ -258,23 +412,9 @@
       "unicode_decimal": 58911
     },
     {
-      "icon_id": "577362",
-      "name": "时钟",
-      "font_class": "clock",
-      "unicode": "e74f",
-      "unicode_decimal": 59215
-    },
-    {
-      "icon_id": "8989214",
-      "name": "警告",
-      "font_class": "warning-round",
-      "unicode": "e605",
-      "unicode_decimal": 58885
-    },
-    {
       "icon_id": "11882885",
       "name": "bg-warning",
-      "font_class": "warning-round-solid",
+      "font_class": "tips-solid",
       "unicode": "e643",
       "unicode_decimal": 58947
     },
@@ -321,20 +461,6 @@
       "unicode_decimal": 59074
     },
     {
-      "icon_id": "1066119",
-      "name": "成功",
-      "font_class": "success",
-      "unicode": "e602",
-      "unicode_decimal": 58882
-    },
-    {
-      "icon_id": "7548138",
-      "name": "icon_失败",
-      "font_class": "fail",
-      "unicode": "e629",
-      "unicode_decimal": 58921
-    },
-    {
       "icon_id": "5169253",
       "name": "重启",
       "font_class": "loading-static",
@@ -361,6 +487,13 @@
       "font_class": "start-solid",
       "unicode": "e657",
       "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "8361794",
+      "name": "开始",
+      "font_class": "start-bolder",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
     },
     {
       "icon_id": "11891855",
